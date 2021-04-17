@@ -4,5 +4,5 @@
 *.fls
 *.aux
 *.fdb_latexmk
-*.syntex.gz
+*.synctex.gz
 .ipynb_checkpoints
